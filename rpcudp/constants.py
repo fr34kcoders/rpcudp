@@ -1,0 +1,1 @@
+MAX_MESSAGE_SIZE = 4 * (1024 * 1024 * 1024)  # 4 GiB
